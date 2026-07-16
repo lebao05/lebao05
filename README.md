@@ -105,6 +105,16 @@ Here are some ideas to get you started:
 </p> -->
 
 ---
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/lb05" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/legiabao/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
