@@ -110,13 +110,13 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LeBao05&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=lebao05&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
     width="400" 
     height="200"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBao05&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebao05&layout=compact&theme=radical" 
     alt="Top Languages" 
     width="305" 
     height="200"
