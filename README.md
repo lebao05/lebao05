@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Le Bao</h1>
+<!-- <h1 align="center">Hi 👋, I'm Le Bao</h1>
 <h3 align="center">I'm a software engineer.</h3>
 
 ---
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 ---
 
